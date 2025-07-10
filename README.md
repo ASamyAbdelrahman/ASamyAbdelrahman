@@ -67,7 +67,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/asamyabdelrahman">
-          <img align="center" src="https://streak-stats.demolab.com?user=asamyabdelrahman&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com/?user=asamyabdelrahman&theme=nightow" alt="Streak Stats" />
         </a>
       </p>
     </td>
